@@ -55,6 +55,19 @@ Neste exercício, verificamos se você é capaz de:
 
 </details>
 
+<details>
+<summary><strong>🗓 Data de Entrega</strong></summary><br />
+
+- Este exercício é individual
+
+- Será `1` dia de exercício.
+
+- Data para entrega final do projeto: `19/10/2023 23:59`.
+
+</details>
+
+<br />
+
 # Orientações
 
 <details>
