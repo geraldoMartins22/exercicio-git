@@ -62,9 +62,9 @@ Neste exercício, verificamos se você é capaz de:
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-0x-exercise-semantic-html.git`
+- Use o comando: `git clone git@github.com:tryber/sd-038-exercise-semantic-html.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-exercise-semantic-html`
+  - `cd sd-038-exercise-semantic-html`
 
 2. Instale as dependências e inicialize o projeto
 
@@ -84,7 +84,7 @@ Neste exercício, verificamos se você é capaz de:
 4. Crie na raiz do projeto os arquivos que você precisará desenvolver:
 
 - Verifique que você está na raiz do projeto:
-  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-0x-exercise-semantic-html**_
+  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-038-exercise-semantic-html**_
 - Crie os arquivos index.html e style.css:
   - Exemplo: `touch index.html style.css`
 
@@ -107,7 +107,7 @@ Neste exercício, verificamos se você é capaz de:
 
 7. Crie um novo `Pull Request` *(PR)*
 
-- Vá até a página de *Pull Requests* do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-semantic-html/pulls)
+- Vá até a página de *Pull Requests* do [repositório no GitHub](https://github.com/tryber/sd-038-exercise-semantic-html/pulls)
 - Clique no botão verde *"New pull request"*
 - Clique na caixa de seleção *"Compare"* e escolha a sua branch **com atenção** - Coloque um título para o seu *Pull Request*
   - Exemplo: *"Cria tela de busca"*
@@ -117,7 +117,7 @@ Neste exercício, verificamos se você é capaz de:
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de *Pull Requests* do repositório](https://github.com/tryber/sd-0x-exercise-semantic-html/pulls) e confira que o seu *Pull Request* está criado
+- Volte até a [página de *Pull Requests* do repositório](https://github.com/tryber/sd-038-exercise-semantic-html/pulls) e confira que o seu *Pull Request* está criado
 
 </details>
 
