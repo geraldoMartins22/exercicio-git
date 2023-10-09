@@ -62,7 +62,7 @@ Neste exercício, verificamos se você é capaz de:
 
 - Será `1` dia de exercício.
 
-- Data para entrega final do projeto: `19/10/2023 23:59`.
+- Data para entrega final do exercício: `19/10/2023 23:59`.
 
 </details>
 
